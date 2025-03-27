@@ -91,6 +91,8 @@ I am actively seeking **full-time opportunities starting in January 2026** in Da
 ### 🌍 Let’s Connect!
 I am passionate about leveraging **AI and data-driven insight**s to solve **business problems and optimize decision-making**. I am eager to collaborate on projects, research, and **full-time roles in Data Science, AI, and Quantitative Analytics** starting in **January 2026**.
 
+📍 Gmail: [naveenapaleti2002@gmail.com](mailto:naveenapaleti2002@gmail.com)
+
 📍 LinkedIn: [linkedin.com/in/naveena-paleti](https://www.linkedin.com/in/naveena-paleti/)
 
 📍 GitHub: [github.com/paletinaveena](https://github.com/paletinaveena)
