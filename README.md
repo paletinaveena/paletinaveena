@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm Naveena Paleti 👋</h1>
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveena-paleti/) [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paletinaveena)  [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/naveenapaleti) 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveena-paleti/) [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paletinaveena) [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/naveenapaleti) [![](https://img.shields.io/badge/HuggingFace-FFB000?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/npaleti2002)   
 
 🔹 MS in Business Analytics & Artificial Intelligence @ UT Dallas (Graduating Dec 2025)
 
@@ -57,6 +57,45 @@ compliance and innovation.
     - Programming with R
 ---
 
+### 📊 Data Science & AI Projects
+#### ShopTrack360 – Customer Retention and Engagement Optimization for E-Commerce
+- Built a **Streamlit dashboard** for churn risk tracking; enabled real-time intervention strategies for e-commerce PMs/marketers.
+- Delivered **80%+ accurate churn prediction model** with K-Means segmentation to target at-risk cohorts and improve retention.
+
+#### 🚀 Bank Churn Analysis: Optimizing Customer Retention
+- Conducted comprehensive customer churn analysis using **PCA** (reducing features to **2 principal components**) and **K-Means clustering**, identifying distinct customer segments for targeted strategies.
+- Implemented a **Random Forest Classifier**, achieving **83% accuracy** in churn prediction.
+- Generated a **classification report** highlighting **0.87 precision** and **0.49 F1-score** for the target class, improving model performance for customer retention strategies.
+ 
+#### 📚 Books Selling Data Analysis: Web Scraping & Data Engineering
+- Developed a **web scraping pipeline** using **Python’s requests and BeautifulSoup libraries** to extract HTML content from Wikipedia.
+- Merged **14 datasets**, addressed missing values in over **200 rows**, and **improved data completeness by 100%**.
+- Created **data visualizations** identifying missing data patterns, enhancing the accuracy and reliability of insights
+
+---
+
+### 🤗 Hugging Face Projects   
+- **[TextSense – Zero-Shot Topic Classifier & Sentiment Analyzer](https://huggingface.co/spaces/npaleti2002/TextSense)**
+  - Integrated **DistilBART, DistilBERT, and summarization** into a single Hugging Face Space with **Gradio UI**.  
+  - Enabled **multi-task text analysis** (topic detection, sentiment, summarization) in a deployable end-to-end pipeline.  
+
+- **[Emoji Translator – Fun NLP Transformer Project](https://huggingface.co/spaces/npaleti2002/Emoji_Translator)**  
+  - Built **interactive text-to-emoji translator** with adjustable replacement rate slider, enhancing user engagement.  
+  - Leveraged **transformer-based text processing** with **Gradio UI** for seamless deployment and accessibility.  
+
+---
+
+### 📊 Kaggle Projects   
+- **NLP with Disaster Tweets (Bronze Medal, 250+ views)**  
+  - Developed **end-to-end NLP pipeline** for classification, from data cleaning to model evaluation.  
+  - Achieved **Bronze medal** with 250+ views, validating reproducibility and community impact.  
+
+- **Industrial Robotics Anomaly Detection (Competition Dataset)**  
+  - Applied **deep learning + time-series models** on robotic arm sensor data to detect anomalies.  
+  - Improved **early detection by 20%**, reducing downtime and enabling predictive maintenance.
+
+---
+
 ### 🔍 Technical Skills & Expertise
 #### 📊 Data Science & Machine Learning
  - **Supervised Learning:** Linear Regression, Logistic Regression, Random Forest, SVM, XGBoost
@@ -82,23 +121,6 @@ compliance and innovation.
 
 ---
 
-### 📊 Data Science & AI Projects
-#### ShopTrack360 – Customer Retention and Engagement Optimization for E-Commerce
-- Built a **Streamlit dashboard** for churn risk tracking; enabled real-time intervention strategies for e-commerce PMs/marketers.
-- Delivered **80%+ accurate churn prediction model** with K-Means segmentation to target at-risk cohorts and improve retention.
-
-#### 🚀 Bank Churn Analysis: Optimizing Customer Retention
-- Conducted comprehensive customer churn analysis using **PCA** (reducing features to **2 principal components**) and **K-Means clustering**, identifying distinct customer segments for targeted strategies.
-- Implemented a **Random Forest Classifier**, achieving **83% accuracy** in churn prediction.
-- Generated a **classification report** highlighting **0.87 precision** and **0.49 F1-score** for the target class, improving model performance for customer retention strategies.
- 
-#### 📚 Books Selling Data Analysis: Web Scraping & Data Engineering
-- Developed a **web scraping pipeline** using **Python’s requests and BeautifulSoup libraries** to extract HTML content from Wikipedia.
-- Merged **14 datasets**, addressed missing values in over **200 rows**, and **improved data completeness by 100%**.
-- Created **data visualizations** identifying missing data patterns, enhancing the accuracy and reliability of insights
-
----
-
 ### 🏅 Leadership & Achievements
 - **🏆 Google Women Engineers Program (2021-2023)** – Selected for a prestigious program empowering women in tech.
 - **🏅 1st Place Winner - Codex Coding Context (2021)** – Won a university-wide coding competition.
@@ -118,6 +140,8 @@ I am passionate about leveraging **AI and data-driven insight**s to solve **busi
 📍 GitHub: [github.com/paletinaveena](https://github.com/paletinaveena)
 
 📍 Kaggle: [kaggle.com/naveenapaleti](https://www.kaggle.com/naveenapaleti)
+
+📍 HuggingFace: [huggingface.co/npaleti2002](https://huggingface.co/npaleti2002)
 
 🚀 Let’s connect and explore AI-driven solutions together!
 
