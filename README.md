@@ -84,8 +84,8 @@ compliance and innovation.
 
 ### 📊 Data Science & AI Projects
 #### ShopTrack360 – Customer Retention and Engagement Optimization for E-Commerce
-– Built a **Streamlit dashboard** for churn risk tracking; enabled real-time intervention strategies for e-commerce PMs/marketers.
-– Delivered **80%+ accurate churn prediction model** with K-Means segmentation to target at-risk cohorts and improve retention.
+- Built a **Streamlit dashboard** for churn risk tracking; enabled real-time intervention strategies for e-commerce PMs/marketers.
+- Delivered **80%+ accurate churn prediction model** with K-Means segmentation to target at-risk cohorts and improve retention.
 
 #### 🚀 Bank Churn Analysis: Optimizing Customer Retention
 - Conducted comprehensive customer churn analysis using **PCA** (reducing features to **2 principal components**) and **K-Means clustering**, identifying distinct customer segments for targeted strategies.
