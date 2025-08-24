@@ -5,7 +5,7 @@
 
 🔹 MS in Business Analytics & Artificial Intelligence @ UT Dallas (Graduating Dec 2025)
 
-<!--🔹 Incoming Quantitative Summer Analyst @ Bank of America (QMAP - Charlotte, NC) -->
+🔹 Ex- Quantitative Summer Analyst 2025 @ Bank of America (QMAP - Charlotte, NC) 
 
 🔹 Aspiring Data Scientist | Machine Learning & AI Enthusiast
 
@@ -20,6 +20,18 @@ I am a graduate student at **The University of Texas at Dallas**, pursuing a Mas
 I have hands-on experience in data analysis, machine learning, and data visualization, with projects ranging from customer churn prediction using Random Forests to web scraping and cleaning multi-source data for meaningful analysis. My technical toolkit includes **Python, R, SQL, Tableau, and AWS services**, and I'm proficient in using libraries like Pandas, Scikit-learn, and Seaborn for data science applications.
 
 Beyond academics, I’ve held leadership roles and excelled in competitive coding environments, reflecting my initiative and problem-solving mindset. I am actively seeking **full-time opportunities starting in January 2026** in Data Science, AI, Machine Learning, and Quantitative Analytics, and I am open to relocating anywhere in the U.S.
+
+---
+
+### 💼 Professional Experience  
+
+#### 📌 Bank of America – Global Quantitative Summer Analyst (QMAP)  
+*Charlotte, NC | June 2025 – August 2025*  
+- Designed **15+ forecasting models** for Average Speed of Answer (ASA) across 100+ contact types, **boosting accuracy by 12%** and enabling smarter staffing decisions
+- Engineered **ARIMA-like lag features** within regulatory limits, delivering robust time-series models while balancing
+compliance and innovation. 
+- Automated model selection and deployment pipelines, **cutting manual effort by 80%** and scaling analytics into enterprise-wide operations
+- Presented insights on key ASA drivers to executives, influencing resourcing strategy, reducing response times, and improving **customer experience metrics**. 
 
 ---
 
@@ -71,6 +83,10 @@ Beyond academics, I’ve held leadership roles and excelled in competitive codin
 ---
 
 ### 📊 Data Science & AI Projects
+#### ShopTrack360 – Customer Retention and Engagement Optimization for E-Commerce
+– Built a **Streamlit dashboard** for churn risk tracking; enabled real-time intervention strategies for e-commerce PMs/marketers.
+– Delivered **80%+ accurate churn prediction model** with K-Means segmentation to target at-risk cohorts and improve retention.
+
 #### 🚀 Bank Churn Analysis: Optimizing Customer Retention
 - Conducted comprehensive customer churn analysis using **PCA** (reducing features to **2 principal components**) and **K-Means clustering**, identifying distinct customer segments for targeted strategies.
 - Implemented a **Random Forest Classifier**, achieving **83% accuracy** in churn prediction.
